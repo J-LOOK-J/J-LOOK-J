@@ -1,7 +1,7 @@
 ## 👩🏻‍빠르게 성장하는 개발자 유희준 입니다.!
 
 ### 💡Introduce
-<a href="https://flower-vacation-498.notion.site/4b851f4fce6240dab99ea539208bacb3" target="_blank"><img src="https://img.shields.io/badge/Resume & Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/><p></p></a>
+<a href="[https://flower-vacation-498.notion.site/4b851f4fce6240dab99ea539208bacb3](https://www.notion.so/620f852de4af4f67a4cfb68d45b2f2ab)" target="_blank"><img src="https://img.shields.io/badge/Resume & Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/><p></p></a>
 
 ### 🛠Skills
 <div>
